@@ -150,6 +150,6 @@ export const adverbs = [
   "stronger",
 ];
 
-export const conjunctions = ["with", "the", "of", "within"];
+export const conjunctions = ["with"];
 export const possessivePronouns = ["your", "their"];
 export const withWord = ["with"];

@@ -11,6 +11,6 @@ var verbs = exports.verbs = ["assert", "architect", "bootstrap", "build", "commu
 
 var adverbs = exports.adverbs = ["better", "broader", "cheaper", "cleaner", "efficiently", "faster", "harder", "on-the-fly", "softer", "stronger"];
 
-var conjunctions = exports.conjunctions = ["with", "the", "of", "within"];
+var conjunctions = exports.conjunctions = ["with"];
 var possessivePronouns = exports.possessivePronouns = ["your", "their"];
 var withWord = exports.withWord = ["with"];
