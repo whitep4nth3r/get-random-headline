@@ -9,7 +9,7 @@ var adjectives = exports.adjectives = ["agile", "compliant", "concurrent", "effi
 
 var verbs = exports.verbs = ["assert", "architect", "bootstrap", "build", "communicate", "compile", "conglomerate", "design", "destroy", "disrupt", "double-click", "embrace", "energize", "facilitate", "follow", "hack", "identify", "improve", "integrate", "invent", "iterate", "launch", "lead", "leverage", "maintain", "optimize", "organize", "refactor", "render", "proxy", "scale", "stream", "streamline", "subscribe", "synergize"];
 
-var adverbs = exports.adverbs = ["better", "broader", "cheaper", "cleaner", "efficiently", "faster", "harder", "on-the-fly", "softer", "stronger"];
+var adverbs = exports.adverbs = ["badly", "better", "bigger", "brilliantly", "cheaper", "configurationlessly", "efficiently", "effortlessly", "faster", "harder", "headlessly", "on-the-fly", "outrageously", "quicker", "smarter"];
 
 var conjunctions = exports.conjunctions = ["with"];
 var possessivePronouns = exports.possessivePronouns = ["your", "their"];

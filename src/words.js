@@ -138,16 +138,21 @@ export const verbs = [
 ];
 
 export const adverbs = [
+  "badly",
   "better",
-  "broader",
+  "bigger",
+  "brilliantly",
   "cheaper",
-  "cleaner",
+  "configurationlessly",
   "efficiently",
+  "effortlessly",
   "faster",
   "harder",
+  "headlessly",
   "on-the-fly",
-  "softer",
-  "stronger",
+  "outrageously",
+  "quicker",
+  "smarter"
 ];
 
 export const conjunctions = ["with"];
